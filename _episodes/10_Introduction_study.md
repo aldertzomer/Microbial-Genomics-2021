@@ -16,7 +16,7 @@ keypoints:
 
 ## Introduction
 
-We will be making use of the files on the [Cocalc4 site](https://cocalc4.science.uu.nl/) or [Cocalc3 site](https://cocalc3.science.uu.nl/). 
+We will be making use of the files on the @gemini.science.uu.nl server
 
 ### Dataset
 
@@ -25,7 +25,7 @@ Introduction to the dataset is given in the [presentation](https://klif.uu.nl/kl
 ### How to login
 
 Follow the instructions at as before. 
-The server we will be using has host address [https://cocalc4.science.uu.nl/](https://cocalc4.science.uu.nl/). Please login using your webbrowser. Click on "New", top left and open a "Linux Terminal". Give it an appropriate name so you can find it again later. 
+The server we will be using has host address gemini.science.uu.nl. Please login using SSH (e.g. putty/mobaxterm/ssh). 
 
 ### Where are the files located
 

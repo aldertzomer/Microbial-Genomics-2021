@@ -25,7 +25,7 @@ Introduction to the dataset is given in the [presentation](https://klif.uu.nl/kl
 ### How to login
 
 Follow the instructions at as before. 
-The server we will be using has host address gemini.science.uu.nl. Please login using SSH (e.g. putty/mobaxterm/ssh). 
+The server we will be using has host address gemini.science.uu.nl. Please login using SSH (e.g. putty/mobaxterm/ssh) using your solisid/password (ssh solisid@gemini.science.uu.nl )
 
 ### Where are the files located
 

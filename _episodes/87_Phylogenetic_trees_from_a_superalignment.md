@@ -73,7 +73,7 @@ $ ls
 We have now aligned all protein sequences. Furthermore, we have replaced the names of the protein names with only their isolate names (using the cut -f 1 -d _ option). This is needed as we want to concatenate every sequence with the same name using catfasta2phyml.pl (https://github.com/nylander/catfasta2phyml), followed by building a tree with fasttree (http://www.microbesonline.org/fasttree/).
 
 ~~~
-$ catfasta2phyml.pl aligned* -f  > superalignment.fasta
+$ catfasta2phyml aligned* -f  > superalignment.fasta
 $ FastTree superalignment.fasta > superalignment.tree
 ~~~
 {: .bash} 

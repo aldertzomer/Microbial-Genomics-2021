@@ -11,6 +11,6 @@ keypoints:
 ---
 
 ## Wrapup
-The complete story describes platelet activation by the PblB protein. Slides: [https://klif.uu.nl/klif/mgen/concluding.pdf](https://klif.uu.nl/klif/mgen/concluding.pdf)
+The complete story describes platelet activation by the PblB protein. Slides (scroll to the end): [https://klif.uu.nl/klif/mgen/concluding.pdf](https://klif.uu.nl/klif/mgen/concluding.pdf)
 
 The full manuscript can be found here: [http://mbio.asm.org/content/8/1/e01984-16](http://mbio.asm.org/content/8/1/e01984-16).

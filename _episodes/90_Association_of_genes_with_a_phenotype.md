@@ -31,7 +31,7 @@ $ cat annotations.txt |tr "\t" "," > traits.csv
 ~~~
 {: .bash}
 
-We can now combine our gene presence absence table with the patient data and check if there are indeed specific virulence factors associated with patient mortality. We're using the special keyword "ALL" the include all annotation data. The P-value cutoff is 0.01 to limit the output
+We can now combine our gene presence absence table with the patient data and check if there are indeed specific virulence factors associated with patient mortality. We're using the special keyword "ALL" the include all annotation data. The P-value cutoff is 0.01 to limit the output. The annotation of the reference genome OXC141 can be found here: [https://klif.uu.nl/klif/mgen/annotation/OXC141/](https://klif.uu.nl/klif/mgen/annotation/OXC141/) . The sequences can be found in the .faa file and the genbank (.gbk) contains all information. Investigate the targets you found to be significant by blasting them and checking their location on the genome. 
 
 ~~~
 $ cd ~/orthology
